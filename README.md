@@ -2,6 +2,7 @@
 
 Engineering Professional focused on system architecture, engineering excellence, and building scalable software systems.
 
+
 My experience spans backend engineering, API design, distributed systems, and platform development. I am particularly interested in system architecture, engineering excellence, and the technical decisions that shape successful software platforms.
 
 ## Areas of Focus
@@ -60,4 +61,4 @@ Reference material covering scalability, reliability, performance, and distribut
 
 ---
 
-> Building software is about more than writing code—it is about understanding trade-offs, making sound technical decisions, and creating systems that remain effective as they evolve and scale.
+> I believe effective software engineering is not only about implementation, but also about making sound technical decisions, understanding trade-offs, and enabling teams to deliver sustainable solutions at scale.
