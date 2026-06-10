@@ -1,16 +1,63 @@
-## Hi there 👋
+# Prashant Kalkoti
 
-<!--
-**prashantkalkoti/prashantkalkoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Professional focused on system architecture, engineering excellence, and building scalable software systems.
 
-Here are some ideas to get you started:
+My experience spans backend engineering, API design, distributed systems, and platform development. I am particularly interested in system architecture, engineering excellence, and the technical decisions that shape successful software platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+* Backend Engineering
+* System Architecture
+* Distributed Systems
+* API Design & Integration
+* Platform Engineering
+* Scalability & Reliability
+* Security & Authentication
+* Spring and Spring Boot ecosystem
+* Cloud-Native Applications
+
+## Engineering Playbook
+
+A collection of architecture decisions, system design explorations, engineering patterns, and practical lessons from designing, building, and operating software systems at scale.
+
+This repository captures architectural decisions, engineering trade-offs, and implementation experiences across backend systems, platform development, and distributed architectures.
+
+Topics include:
+
+* Architecture Patterns
+* System Design
+* Distributed Systems
+* Reliability Engineering
+* API Design
+* Security
+* Data Management
+* Observability
+* Platform Engineering
+* Architecture Decision Records (ADRs)
+
+## Current Focus
+
+* Large-Scale System Design
+* Distributed Systems Architecture
+* Reliability and Operational Excellence
+* Platform Engineering
+* Technical Leadership
+* Engineering Best Practices
+
+## Featured Repositories
+
+### Engineering Playbook
+
+Architecture notes, system design studies, engineering patterns, and decision records.
+
+### Architecture Case Studies
+
+Real-world design challenges, trade-offs, and lessons learned from engineering projects.
+
+### System Design Notes
+
+Reference material covering scalability, reliability, performance, and distributed systems concepts.
+
+---
+
+> Building software is about more than writing code—it is about understanding trade-offs, making sound technical decisions, and creating systems that remain effective as they evolve and scale.
